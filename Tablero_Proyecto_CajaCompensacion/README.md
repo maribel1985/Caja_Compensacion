@@ -4,6 +4,10 @@
 
 ![alt text](<Captura de pantalla 2026-03-25 202823.png>)
 
+## Modelo relacional en MYSQL
+
+![alt text](image.png)
+
 ## Código fuente creado en Python para la generación de los datos sintéticos
 
 ![alt text](<Captura de pantalla 2026-03-25 203111.png>)
